@@ -30,10 +30,10 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 `Java` · `C++` · `Python` · `TypeScript` · `JavaScript` · `SQL`
 
 **Frameworks and platforms**
-`Spring Boot` · `Quarkus` · `Hibernate` · `AWS` · `React` · `Scrapy` · `Android` · `Godot` · `Blender`
+`Spring Boot` · `Quarkus` · `Hibernate` · `Panache` · `Quartz` · `AWS` · `React` · `Scrapy` · `Android` · `Godot` · `Blender`
 
 **Tools**
-`Docker` · `Keycloak` · `WebRTC` · `Git` · `Linux` · `GitHub Actions`
+`Docker` · `Keycloak` · `WebRTC` · `REST API` · `Git` · `Linux` · `CI/CD` · `GitHub Actions`
 
 ## Open source
 
