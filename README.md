@@ -40,6 +40,7 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white)
 
 **Tools**
 
