@@ -3,7 +3,6 @@
 Software Development Engineer II at **DeepMatrix**, building geospatial pipelines and distributed backend systems. Previously at **Amazon** and **SMS DataTech (Tokyo)**. B.Tech in Computer Science, **IIT Jodhpur**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrishi--raj-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishi-raj-50683a168)
-[![Email](https://img.shields.io/badge/Email-raj.hrishi%40yahoo.com-6001D2?logo=yahoo&logoColor=white)](mailto:raj.hrishi@yahoo.com)
 [![X](https://img.shields.io/badge/X-__lancer__lot-000000?logo=x&logoColor=white)](https://twitter.com/_lancer_lot)
 [![Play Store](https://img.shields.io/badge/Google_Play-LancerLot-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=LancerLot)
 
