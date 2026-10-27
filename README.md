@@ -12,7 +12,17 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 
 ## What I work on
 
-`Geospatial` · `Photogrammetry` · `Point Clouds` · `Distributed Systems` · `Microservices` · `Cloud Cost Optimization` · `Access Control` · `SaaS` · `OSINT` · `Web Scraping` · `WebRTC` · `Game Dev`
+**🛰️ DeepMatrix**
+`Geospatial` · `GIS` · `Photogrammetry` · `Point Clouds` · `Tiling Pipelines` · `Spatial Optimization` · `Distributed Frameworks` · `Microservices` · `Job Orchestration` · `Feature Tiering` · `Keycloak OIDC` · `Observability` · `Telecom Measurement` · `Memory Optimization`
+
+**☁️ Amazon**
+`AWS` · `Cloud Cost Optimization` · `Data Lifecycle` · `Role-Based Access Control` · `Security` · `Billing Infrastructure` · `Cloud Migration` · `Auto Scaling` · `Load Balancing` · `High Availability`
+
+**🌐 SMS DataTech (Tokyo)**
+`SaaS` · `Multi-Tenant Onboarding` · `OSINT` · `Penetration Testing Tools` · `Browser Extensions` · `Web Scraping` · `WebRTC` · `P2P Video Calling` · `i18n` · `Mentoring`
+
+**🎮 LancerLot Games**
+`Game Dev` · `Godot` · `Blender` · `3D` · `Cross-Platform` · `Android` · `React` · `TypeScript`
 
 ## Tech stack
 
