@@ -12,11 +12,7 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 
 ## What I work on
 
-- 🛰️ **Geospatial systems at DeepMatrix**: built an automated encroachment tiling pipeline with a **20x runtime improvement** and no manual steps left; took the photogrammetry module from proof of concept to production as sole owner.
-- ⚙️ **Distributed frameworks**: GisOps multi-script execution, job progress reporting in Java and Python, and feature tiering to gate product functionality.
-- ☁️ **Amazon**: an automated data clean-up system that **cut database costs by 80%**, role-based sub-account permissions for advertisers, and AWS billing infrastructure.
-- 🌐 **SMS DataTech**: a SaaS management portal, an OSINT portal, a scraping browser extension, and a peer-to-peer video calling feature on WebRTC.
-- 🎮 **LancerLot Games**: cross-platform Tetris and a 3D snake game built in Godot, live on the Play Store.
+`Geospatial` · `Photogrammetry` · `Point Clouds` · `Distributed Systems` · `Microservices` · `Cloud Cost Optimization` · `Access Control` · `SaaS` · `OSINT` · `Web Scraping` · `WebRTC` · `Game Dev`
 
 ## Tech stack
 
