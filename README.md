@@ -2,7 +2,12 @@
 
 Software Development Engineer II at **DeepMatrix**, building geospatial pipelines and distributed backend systems. Previously at **Amazon** and **SMS DataTech (Tokyo)**. B.Tech in Computer Science, **IIT Jodhpur**.
 
+- 🔭 Currently building photogrammetry and geospatial processing pipelines at DeepMatrix
+- 🏆 CodeChef 4★ (peak rating 1963) · ICPC 2019 Regionalist
+- ⚡ Fun fact: I build and ship games solo on the Play Store, and I once worked for a Tokyo-based team
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrishi--raj-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishi-raj-50683a168)
+[![Website](https://img.shields.io/badge/Website-hrishi--raj.github.io-222222?logo=githubpages&logoColor=white)](https://hrishi-raj.github.io)
 [![X](https://img.shields.io/badge/X-__lancer__lot-000000?logo=x&logoColor=white)](https://twitter.com/_lancer_lot)
 [![Play Store](https://img.shields.io/badge/Google_Play-LancerLot-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=LancerLot)
 
@@ -33,6 +38,7 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
 
 **Tools**
@@ -51,5 +57,7 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 
 ## GitHub stats
 
-![Hrishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrishi-Raj&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishi-Raj&layout=compact&hide_border=true)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
+
+![Contribution snake](./profile/github-snake.svg)
