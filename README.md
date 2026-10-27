@@ -6,7 +6,6 @@ Software Development Engineer II at **DeepMatrix**, building geospatial pipeline
 - ⚡ Fun fact: I build and ship games solo on the Play Store, and I once worked for a Tokyo-based team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrishi--raj-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishi-raj-50683a168)
-[![Website](https://img.shields.io/badge/Website-hrishi--raj.github.io-222222?logo=githubpages&logoColor=white)](https://hrishi-raj.github.io)
 [![X](https://img.shields.io/badge/X-__lancer__lot-000000?logo=x&logoColor=white)](https://twitter.com/_lancer_lot)
 [![Play Store](https://img.shields.io/badge/Google_Play-LancerLot-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=LancerLot)
 
