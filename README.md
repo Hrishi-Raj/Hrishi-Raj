@@ -3,7 +3,6 @@
 Software Development Engineer II at **DeepMatrix**, building geospatial pipelines and distributed backend systems. Previously at **Amazon** and **SMS DataTech (Tokyo)**. B.Tech in Computer Science, **IIT Jodhpur**.
 
 - 🔭 Currently building photogrammetry and geospatial processing pipelines at DeepMatrix
-- 🏆 CodeChef 4★ (peak rating 1963) · ICPC 2019 Regionalist
 - ⚡ Fun fact: I build and ship games solo on the Play Store, and I once worked for a Tokyo-based team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hrishi--raj-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishi-raj-50683a168)
